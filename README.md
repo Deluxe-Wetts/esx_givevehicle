@@ -1,13 +1,14 @@
 # esx_givevehicle
-Requirements:
+
+# Requirements:
 es_extended
 esx_vehicleshop
 
-Installation
+# Installation
 Put in the server.cfg 
 ensure esx_givevehicle and ready
 
-Commands:
+# Commands:
 In game: (give permission in config)
 
 Give a car to the target player: /givecar [playerID] [vehicle] <plate>
@@ -26,7 +27,8 @@ _giveboat [playerID] [car] <plate>
 _giveheli [playerID] [car] <plate>
 _delcarplate [plate]
 
-Config:
+# Config:
+
 Config = {}
 Config.Locale = 'en'
 
